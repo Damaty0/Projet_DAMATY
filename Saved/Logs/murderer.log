@@ -1004,3 +1004,278 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.01-16.24.32:468][390]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.01-16.24.32:468][390]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.06.01-16.24.32:468][390]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.01-16.24.50:289][623]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1F729F71913F61973113DA8BBF260CFB2E576E5A), compiling. 
+[2022.06.01-16.24.50:388][623]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.06.01-16.24.50:390][623]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 16
+[2022.06.01-16.24.50:390][623]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 14
+[2022.06.01-16.24.50:390][623]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 12
+[2022.06.01-16.24.50:390][623]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 10
+[2022.06.01-16.24.50:390][623]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 8
+[2022.06.01-16.24.50:390][623]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 6
+[2022.06.01-16.24.50:390][623]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 4
+[2022.06.01-16.24.50:390][623]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 2
+[2022.06.01-16.24.50:390][623]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2022.06.01-16.24.50:401][623]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPersonBP/Blueprints/NewMaterial.NewMaterial
+[2022.06.01-16.24.50:439][623]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 92EC6295F7BC41C4111AD33B401E8CEC3588CFB8), compiling. 
+[2022.06.01-16.24.50:887][623]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.06.01-16.24.51:520][623]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.06.01-16.24.52:064][623]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 794BD76FD341979D294BF3D1744705519A209AAE), compiling. 
+[2022.06.01-16.24.52:084][623]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-16.24.52:088][623]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.01-16.24.53:065][637]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.01-16.24.53:065][637]LogShaderCompilers: Display: Total job queries 36, among them cache hits 0 (0.00%)
+[2022.06.01-16.24.53:065][637]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2022.06.01-16.24.53:065][637]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.06.01-16.24.53:065][637]LogShaderCompilers: Display: ================================================
+[2022.06.01-16.24.53:171][640]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.01-16.24.53:475][664]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.01-16.24.53:475][664]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.01-16.24.53:475][664]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.01-16.24.53:475][664]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.01-16.25.07:802][262]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 99FAE6CFBB0DB9EC58482E1CEE5F5B56C79A19A0), compiling. 
+[2022.06.01-16.25.07:804][262]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B61519EFD9F4D7F259C9FABC856F78B1736E444E), compiling. 
+[2022.06.01-16.25.07:882][262]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 78AA81D2EAD0A7E6CADB287E261771876D7E81FB), compiling. 
+[2022.06.01-16.25.07:884][262]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 81498177D2602130C31A07695D7B1CFDB5C0E2AB), compiling. 
+[2022.06.01-16.25.07:887][262]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-16.25.07:960][264]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.07:966][264]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.01-16.25.07:966][264]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.01-16.25.07:966][264]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.01-16.25.07:966][264]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.01-16.25.07:973][265]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2022.06.01-16.25.07:973][265]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2022.06.01-16.25.07:973][265]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.11:017][583]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E9C82A2ED20B9362A603E1C6399DB3EDFBA80055), compiling. 
+[2022.06.01-16.25.11:018][583]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CD091A8606F9AEB7E1C811D219AA70B6E838838B), compiling. 
+[2022.06.01-16.25.11:020][583]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A38860C68765FF6B0556AAED0DD4CA7F44C44B2A), compiling. 
+[2022.06.01-16.25.11:021][583]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 689D2DCA55889C3D30DADE5AF9449A829061CB97), compiling. 
+[2022.06.01-16.25.11:021][583]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.01-16.25.11:026][583]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-16.25.11:041][585]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.01-16.25.11:051][586]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.01-16.25.11:051][586]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.01-16.25.11:051][586]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.01-16.25.11:051][586]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.01-16.25.13:815][913]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1C0053CE863C64783C32BE229D203E72C49E3591), compiling. 
+[2022.06.01-16.25.13:816][913]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CC88BAC3B2E4ABFE12534D48D5E0CC0615303BCA), compiling. 
+[2022.06.01-16.25.13:817][913]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 59D1882AF29D3FB13D6493DD6435409035616D4F), compiling. 
+[2022.06.01-16.25.13:818][913]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 5
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 7
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 6
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 5
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 4
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 3
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 2
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 1
+[2022.06.01-16.25.13:831][914]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.06.01-16.25.13:844][915]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.13:896][919]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 2
+[2022.06.01-16.25.13:896][919]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 1
+[2022.06.01-16.25.13:896][919]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.14:620][938]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.01-16.25.14:649][939]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 680C518F7A680F43E3448CBD85AF1E03B5133543), compiling. 
+[2022.06.01-16.25.14:651][939]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9BA8E18E41BBF04B99568B30765E511A8210CD4F), compiling. 
+[2022.06.01-16.25.14:654][939]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DDE2A8A082F65ADA61AE308D4A7BB355678B0EE6), compiling. 
+[2022.06.01-16.25.14:659][939]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-16.25.14:691][940]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.14:692][940]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2022.06.01-16.25.14:692][940]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2022.06.01-16.25.14:692][940]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.14:692][940]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.01-16.25.14:692][940]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 8
+[2022.06.01-16.25.14:692][940]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 7
+[2022.06.01-16.25.14:692][940]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 6
+[2022.06.01-16.25.14:692][940]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 5
+[2022.06.01-16.25.14:692][940]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 4
+[2022.06.01-16.25.14:692][940]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 3
+[2022.06.01-16.25.14:692][940]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 2
+[2022.06.01-16.25.14:692][940]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 1
+[2022.06.01-16.25.14:692][940]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.06.01-16.25.14:721][941]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.14:721][941]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 2
+[2022.06.01-16.25.14:721][941]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.14:776][943]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 1
+[2022.06.01-16.25.14:776][943]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.15:580][963]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.01-16.25.15:710][972]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.06.01-16.25.15:710][972]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.06.01-16.25.15:710][972]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.01-16.25.15:710][972]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.01-16.25.16:790][102]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FE34E0F6610BF7ABE8A0B8BF4354582262944C88), compiling. 
+[2022.06.01-16.25.16:791][102]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 914808CA78D3A483F8530E40D85E1027B19C3B75), compiling. 
+[2022.06.01-16.25.16:793][102]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CFC008E4BCCBA8C5212B21AA00898FE49371CE2F), compiling. 
+[2022.06.01-16.25.16:794][102]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-16.25.16:799][103]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.16:806][104]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2022.06.01-16.25.16:807][104]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2022.06.01-16.25.16:807][104]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.16:807][104]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.01-16.25.16:807][104]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 8
+[2022.06.01-16.25.16:807][104]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 7
+[2022.06.01-16.25.16:807][104]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 6
+[2022.06.01-16.25.16:807][104]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 5
+[2022.06.01-16.25.16:807][104]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 4
+[2022.06.01-16.25.16:807][104]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 3
+[2022.06.01-16.25.16:807][104]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 2
+[2022.06.01-16.25.16:807][104]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 1
+[2022.06.01-16.25.16:807][104]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.06.01-16.25.16:808][104]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.16:827][105]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 2
+[2022.06.01-16.25.16:827][105]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 1
+[2022.06.01-16.25.16:827][105]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.17:666][130]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.01-16.25.17:677][131]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.06.01-16.25.17:677][131]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.06.01-16.25.17:677][131]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.01-16.25.17:677][131]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.01-16.25.24:391][873]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FC940AFB391E34F55C3DF7313926E3D0900E7CDF), compiling. 
+[2022.06.01-16.25.24:392][873]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C22A305B70316DB5DCA64B2AF6B02460827AD114), compiling. 
+[2022.06.01-16.25.24:394][873]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1BBC205F25EF302D78C6A9256B5A88576F6FC8DE), compiling. 
+[2022.06.01-16.25.24:394][873]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E873A0D020DE675B124B1038E27333BF6277ED0A), compiling. 
+[2022.06.01-16.25.24:395][873]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F98DD93F728B8C39646C5D72F99E7D8EAF35EDB), compiling. 
+[2022.06.01-16.25.24:396][873]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A40DD80614C74262AA7CF7F21CA630E4224BDF0C), compiling. 
+[2022.06.01-16.25.24:397][873]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.01-16.25.24:400][873]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-16.25.24:406][874]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.24:413][875]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.01-16.25.24:413][875]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2022.06.01-16.25.24:413][875]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2022.06.01-16.25.24:413][875]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 8
+[2022.06.01-16.25.24:413][875]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 7
+[2022.06.01-16.25.24:413][875]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 6
+[2022.06.01-16.25.24:413][875]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 5
+[2022.06.01-16.25.24:413][875]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 4
+[2022.06.01-16.25.24:413][875]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 3
+[2022.06.01-16.25.24:413][875]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 2
+[2022.06.01-16.25.24:413][875]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 1
+[2022.06.01-16.25.24:413][875]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.06.01-16.25.24:413][875]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.24:415][875]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.24:432][876]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 2
+[2022.06.01-16.25.24:432][876]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 1
+[2022.06.01-16.25.24:432][876]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.25:209][901]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.01-16.25.25:284][906]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.06.01-16.25.25:284][906]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.06.01-16.25.25:284][906]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.01-16.25.25:284][906]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.01-16.25.26:685][ 70]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2022.06.01-16.25.26:934][ 70]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 68F71396AED4079857D3F510ACF613B1FF348D25), compiling. 
+[2022.06.01-16.25.26:952][ 70]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D20C32400E5C2C76BEA9215C40CA774EF98ADB17), compiling. 
+[2022.06.01-16.25.26:971][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.01-16.25.26:994][ 70]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.27:170][ 70]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 1
+[2022.06.01-16.25.27:170][ 70]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.01-16.25.27:170][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.06.01-16.25.27:273][ 70]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.06.01-16.25.27:279][ 70]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 5
+[2022.06.01-16.25.27:279][ 70]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 4
+[2022.06.01-16.25.27:279][ 70]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 3
+[2022.06.01-16.25.27:279][ 70]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 2
+[2022.06.01-16.25.27:279][ 70]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 1
+[2022.06.01-16.25.27:279][ 70]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.06.01-16.25.27:286][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/NewMaterial" FILE="../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Blueprints/NewMaterial.uasset" SILENT=true
+[2022.06.01-16.25.27:295][ 70]LogSavePackage: Moving '../../../../../Dossier UE5/UE4/murderer/Saved/NewMaterial642374D14A659AB3B4A2C59EF1D2D6B3.tmp' to '../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Blueprints/NewMaterial.uasset'
+[2022.06.01-16.25.27:331][ 70]AssetCheck: New page: Asset Save: NewMaterial
+[2022.06.01-16.25.27:331][ 70]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/Blueprints/NewMaterial.NewMaterial
+[2022.06.01-16.25.27:335][ 70]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.01-16.25.27:716][ 98]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.01-16.25.27:725][ 99]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.06.01-16.25.27:726][ 99]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.06.01-16.25.27:726][ 99]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.01-16.25.27:726][ 99]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.01-16.25.30:156][386]LogSlate: Window 'NewMaterial' being destroyed
+[2022.06.01-16.25.30:158][386]LogSlate: Window 'NewMaterial' being destroyed
+[2022.06.01-16.25.30:234][386]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-16.25.30:234][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Content: 'D:/epiclibrary/UE_4.27/Engine/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:376][723]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.33:462][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/NewMaterial" FILE="../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Blueprints/NewMaterial.uasset" SILENT=true
+[2022.06.01-16.25.33:463][723]LogSavePackage: Moving '../../../../../Dossier UE5/UE4/murderer/Saved/NewMaterial1FE84D7D4663492976B05F8A266F70B9.tmp' to '../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Blueprints/NewMaterial.uasset'
+[2022.06.01-16.25.35:554][723]LogSlate: Window 'Submit Files' being destroyed
+[2022.06.01-16.25.35:564][724]AssetCheck: New page: Asset Save: NewMaterial
+[2022.06.01-16.25.35:564][724]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/Blueprints/NewMaterial.NewMaterial
+[2022.06.01-16.25.52:998][771]LogContentBrowser: Attempting asset rename: NewMaterial -> material_test
+[2022.06.01-16.25.53:271][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/material_test" FILE="../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Blueprints/material_test.uasset" SILENT=true
+[2022.06.01-16.25.53:275][771]LogSavePackage: Moving '../../../../../Dossier UE5/UE4/murderer/Saved/material_test4A8144724E92691C3AAEF385F375FDF7.tmp' to '../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Blueprints/material_test.uasset'
+[2022.06.01-16.25.53:426][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/NewMaterial" FILE="../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Blueprints/NewMaterial.uasset" SILENT=true
+[2022.06.01-16.25.53:427][771]LogSavePackage: Moving '../../../../../Dossier UE5/UE4/murderer/Saved/NewMaterial6330FA964F0994D039A32A8AE7A7C636.tmp' to '../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Blueprints/NewMaterial.uasset'
+[2022.06.01-16.25.53:714][771]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.01-16.25.53:714][771]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/NewMaterial.NewMaterial
+[2022.06.01-16.25.53:715][771]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/Blueprints/material_test.material_test
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Content: 'D:/epiclibrary/UE_4.27/Engine/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:905][  5]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.25.55:996][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/material_test" FILE="../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Blueprints/material_test.uasset" SILENT=true
+[2022.06.01-16.25.55:997][  5]LogSavePackage: Moving '../../../../../Dossier UE5/UE4/murderer/Saved/material_test5551035D4E3E8B27127F2A82750571F4.tmp' to '../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Blueprints/material_test.uasset'
+[2022.06.01-16.25.55:997][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/NewMaterial" FILE="../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Blueprints/NewMaterial.uasset" SILENT=true
+[2022.06.01-16.25.56:029][  5]LogSavePackage: Moving '../../../../../Dossier UE5/UE4/murderer/Saved/NewMaterialCD88D6F3470195C8F8C3C6975FA1ED20.tmp' to '../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Blueprints/NewMaterial.uasset'
+[2022.06.01-16.26.31:014][  5]LogSlate: Window 'Submit Files' being destroyed
+[2022.06.01-16.26.32:464][  5]LogSourceControl: commit successful: [master 98f567e] j ai modifier la couleur et le nim du material
+[2022.06.01-16.26.32:486][  5]SourceControl: [master 98f567e] j ai modifier la couleur et le nim du material
+[2022.06.01-16.26.32:486][  5]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2022.06.01-16.26.32:486][  5]SourceControl:  rewrite Content/FirstPersonBP/Blueprints/NewMaterial.uasset (99%)
+[2022.06.01-16.26.32:486][  5]SourceControl:  create mode 100644 Content/FirstPersonBP/Blueprints/material_test.uasset
+[2022.06.01-16.26.32:489][  5]SourceControl: Commited [master 98f567e] j ai modifier la couleur et le nim du material.
+[2022.06.01-16.26.32:505][  6]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.01-16.26.32:505][  6]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/NewMaterial.NewMaterial
+[2022.06.01-16.26.32:505][  6]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/Blueprints/material_test.material_test
+[2022.06.01-16.26.33:603][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.01-16.26.33:630][ 94]LogSavePackage: Moving '../../../../../Dossier UE5/UE4/murderer/Saved/FirstPersonExampleMap9EB8DF5D45EDB0F318C44E983CD17D2D.tmp' to '../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.06.01-16.26.33:840][ 94]LogSavePackage: Moving '../../../../../Dossier UE5/UE4/murderer/Saved/FirstPersonExampleMap_BuiltData3503EAD5407A8E5ED62BBEAAA08CD281.tmp' to '../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.06.01-16.26.33:845][ 94]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.01-16.26.33:845][ 94]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.06.01-16.26.33:845][ 94]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
