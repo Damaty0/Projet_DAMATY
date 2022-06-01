@@ -954,3 +954,53 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.01-16.23.01:097][432]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.01-16.23.01:097][432]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.06.01-16.23.01:097][432]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.01-16.24.13:135][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2022.06.01-16.24.13:711][101]Cmd: DELETE
+[2022.06.01-16.24.13:711][101]Cmd: ACTOR DELETE
+[2022.06.01-16.24.13:713][101]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.01-16.24.13:716][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.06.01-16.24.13:718][101]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.06.01-16.24.14:681][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.06.01-16.24.14:723][209]LogSavePackage: Moving '../../../../../Dossier UE5/UE4/murderer/Saved/FirstPersonExampleMap734EFFA941E9F8A60439FEA4B38687FE.tmp' to '../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.06.01-16.24.14:924][209]LogSavePackage: Moving '../../../../../Dossier UE5/UE4/murderer/Saved/FirstPersonExampleMap_BuiltData21B6B1AD493A23447CC87BAE702886AC.tmp' to '../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.06.01-16.24.14:929][209]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.01-16.24.14:929][209]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.06.01-16.24.14:929][209]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Content: 'D:/epiclibrary/UE_4.27/Engine/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:658][389]SourceControl: fatal: D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/epiclibrary/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Dossier UE5/UE4/murderer'
+[2022.06.01-16.24.16:813][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.01-16.24.16:822][389]LogSavePackage: Moving '../../../../../Dossier UE5/UE4/murderer/Saved/FirstPersonExampleMap16CE4D5F4ED8964409B058B40D05A0BB.tmp' to '../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.06.01-16.24.16:827][389]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.018
+[2022.06.01-16.24.16:975][389]LogSavePackage: Moving '../../../../../Dossier UE5/UE4/murderer/Saved/FirstPersonExampleMap_BuiltDataDD0B31B74B66B1EF35DB169F7C43F6BE.tmp' to '../../../../../Dossier UE5/UE4/murderer/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.06.01-16.24.30:946][389]LogSlate: Window 'Submit Files' being destroyed
+[2022.06.01-16.24.32:432][389]LogSourceControl: commit successful: [master ed858d0] ja i suprrr un gros cube
+[2022.06.01-16.24.32:454][389]SourceControl: [master ed858d0] ja i suprrr un gros cube
+[2022.06.01-16.24.32:454][389]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2022.06.01-16.24.32:456][389]SourceControl: Commited [master ed858d0] ja i suprrr un gros cube.
+[2022.06.01-16.24.32:468][390]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.01-16.24.32:468][390]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.06.01-16.24.32:468][390]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
